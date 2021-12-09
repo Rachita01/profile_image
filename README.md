@@ -1,3 +1,3 @@
-# react-wtcxuk
+# Change profile image(avatar) feature
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-wtcxuk)
+This react app contains a feature in which we hover on profile with default avatar, a card with different avatars displays. When we select any one of then it gets displayed on profile.
